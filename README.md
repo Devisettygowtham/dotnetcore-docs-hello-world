@@ -1,4 +1,4 @@
-# .NET 6 Hello World. gowtham 
+# .NET 6 Hello World. gowtham . This is a sample test project 
 
 This sample demonstrates a tiny Hello World .NET Core app for [App Service Web App](https://docs.microsoft.com/azure/app-service-web). This sample can be used in a .NET Azure App Service app as well as in a Custom Container Azure App Service app.
 
